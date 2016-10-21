@@ -1,1 +1,18 @@
-Somthing will be here
+// 
+
+
+//Global variables 
+
+
+
+public Class RileyGame()
+{
+
+
+	public static void main(String Args[])
+	{
+		//MAIN BODY
+
+	}
+
+}
